@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshishPatilNF
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Indie Game Projects
+- 💞️ I’m looking to collaborate on Indie Game Development Projects
 - 📫 How to reach me ashishsanjaypatil@gmail.com
 
 <!---
