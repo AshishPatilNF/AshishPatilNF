@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshishPatilNF
+- 👋 Hi, I’m Ashish Sanjay Patil
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Indie Game Development Projects
